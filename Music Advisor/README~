@@ -1,0 +1,1 @@
+This program takes user ratings and then standardizes the scores based on their average rating for song. The program will then predict unranked songs by comparing to similar users. After computing unraked songs, the program clusters every song by average rating using the K-Means algorithm for several iterations. 
