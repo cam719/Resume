@@ -1,4 +1,4 @@
-#Authors: Cameron O'Neal
+#Authors: Cameron O'Neal, Joe Minicucci
 import random
 import sys
 import socket
