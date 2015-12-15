@@ -1,0 +1,1 @@
+This is a program that connects to serveral computers in a given list of ip's and ports, and then attemps to retrieve a file, and the file is relayed from the last node all the way back to the requesting node.
