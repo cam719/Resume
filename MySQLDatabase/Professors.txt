@@ -1,0 +1,15 @@
+101, Bobby Ewing, BA, BA101, BA102
+102, Red Skelton, BA, BA101, BA102
+201, Thomas Magnum, CS, CS160, CS161, CS200, CS420
+202, Julie Barnes, CS, CS160, CS161, CS200, CS430
+203, Roger Ramjet, CS, CS220, CS253, CS270, CS370
+204, Mickey Hart, CS, CS220, CS253, CS270, CS370
+205, Grace Slick, CS, CS370, CS430, CS451 
+206, Perry Mason, CS, CS160, CS161
+207, Dickey Betts, CS, CS200, CS420, CS430
+208, Waco Kid, CS, CS160, CS161
+209, Roger Thornhill, CS, CS220, CS160
+210, Scottie Ferguson, CS, CS253, CS370
+301, Barbara Wright, M, M160, M161
+302, John Crichton, M, M200, M201
+303, Aeon Flux, M, M160, M161, M200, M201
