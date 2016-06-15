@@ -1,0 +1,5 @@
+If changing .csrch file does not work run as follows:
+
+Copy mysql-connector-java.jar to current directory 
+javac Lab4A.java
+java -cp .:mysql-connector-java.jar Lab4A

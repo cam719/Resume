@@ -1,0 +1,183 @@
+<sections>
+
+<section>
+<ClassId> BA101 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 8:00 - 8:50 MWF </Time>
+<ClassRoom> CC310 </ClassRoom>
+<Emp_no> 101 </Emp_no>
+</section>
+
+<section>
+<ClassId> BA102 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 9:00 - 9:50 MWF </Time>
+<ClassRoom> CC320 </ClassRoom>
+<Emp_no> 102 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS160 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 8:00 - 8:50 MWF </Time>
+<ClassRoom> CSB130 </ClassRoom>
+<Emp_no> 201 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS160 </ClassId>
+<SecNo>	2 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 10:00 - 10:50 MWF </Time>
+<ClassRoom> CSB130 </ClassRoom>
+<Emp_no> 202 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS161 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 12:00 - 12:50 MWF </Time>
+<ClassRoom> CSB130 </ClassRoom>
+<Emp_no> 206 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS161 </ClassId>
+<SecNo>	2 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 12:00 - 1:15 TTh </Time>
+<ClassRoom> CSB130 </ClassRoom>
+<Emp_no> 208 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS200 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 10:00 - 11:15 TTh </Time>
+<ClassRoom> CSB225 </ClassRoom>
+<Emp_no> 207 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS220 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 3:00 - 3:15 TTh </Time>
+<ClassRoom> CSB325 </ClassRoom>
+<Emp_no> 209 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS253 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 8:00 - 9:15 TTh </Time>
+<ClassRoom> CSB325 </ClassRoom>
+<Emp_no> 204 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS270 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 1:00 - 1:50 MWF </Time>
+<ClassRoom> CSB130 </ClassRoom>
+<Emp_no> 203 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS370 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 2:00 - 3:14 TTh </Time>
+<ClassRoom> CSB425 </ClassRoom>
+<Emp_no> 210 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS420 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 4:00 - 4:50 MWF </Time>
+<ClassRoom> CSB425 </ClassRoom>
+<Emp_no> 205 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS430 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 4:00 - 4:50 MWF </Time>
+<ClassRoom> CSB425 </ClassRoom>
+<Emp_no> 205 </Emp_no>
+</section>
+
+<section>
+<ClassId> CS451 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 2:00 - 2:50 MWF </Time>
+<ClassRoom> CSB425 </ClassRoom>
+<Emp_no> 205 </Emp_no>
+</section>
+
+<section>
+<ClassId> M160 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 1:00 - 1:50 MTWThF </Time>
+<ClassRoom> E202 </ClassRoom>
+<Emp_no> 301 </Emp_no>
+</section>
+
+<section>
+<ClassId> M160 </ClassId>
+<SecNo>	2 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 2:00 - 2:50 MTWThF </Time>
+<ClassRoom> E202 </ClassRoom>
+<Emp_no> 302 </Emp_no>
+</section>
+
+<section>
+<ClassId> M161 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 1:00 - 1:50 MWF </Time>
+<ClassRoom> E102 </ClassRoom>
+<Emp_no> 303 </Emp_no>
+</section>
+
+<section>
+<ClassId> M161 </ClassId>
+<SecNo>	2 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 2:00 - 2:50 MWF </Time>
+<ClassRoom> E102 </ClassRoom>
+<Emp_no> 303 </Emp_no>
+</section>
+
+<section>
+<ClassId> M200 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 10:00 - 10:50 MWF </Time>
+<ClassRoom> E101 </ClassRoom>
+<Emp_no> 302 </Emp_no>
+</section>
+
+<section>
+<ClassId> M201 </ClassId>
+<SecNo>	1 </SecNo>
+<Semester> SP16 </Semester>
+<Time> 10:00 - 10:50 MWF </Time>
+<ClassRoom> E102 </ClassRoom>
+<Emp_no> 303 </Emp_no>
+</section>
+
+</sections>
